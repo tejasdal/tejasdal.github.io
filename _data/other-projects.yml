@@ -1,8 +1,7 @@
 - name: Group Formation Tool
   url: 
   code: https://git.cs.dal.ca/courses/2020-summer/csci5308/group20
-  description: Developed a Spring Boot application that helps instructor and TAs of a course to create a survey and form groups of students based on responses of
-  the survey.
+  description: Developed a Spring Boot application that helps instructor and TAs of a course to create a survey and form groups of students based on responses of the survey.
   used:
     - thing: Spring Boot
     - thing: Thymeleaf
@@ -15,8 +14,7 @@
 - name: Track My Job
   url: https://track-my-jobs.herokuapp.com/
   code: https://github.com/Zankrut97/grp21-trackmyjobs
-  description: Developed an Angular2+ front-end and a Spring Boot back-end applications with primary goal to help users to maintain their job applications and
-  tasks, activities, and contacts related to each job applications. Secondary goals are blogs management, job search, job application analytics etc.
+  description: Developed an Angular2+ front-end and a Spring Boot back-end applications with primary goal to help users to maintain their job applications and tasks, activities, and contacts related to each job applications. Secondary goals are blogs management, job search, job application analytics etc.
   used:
     - thing: Angular2+
     - thing: Spring Boot
@@ -41,8 +39,7 @@
 - name: Surescripts Utility
   url: 
   code: a
-  description: Implemented a health care utility to send and receive e-prescriptions (in XML based on given WSDL) to and from Surescripts, in a multi-tenant Spring
-  Boot application.
+  description: Implemented a health care utility to send and receive e-prescriptions (in XML based on given WSDL) to and from Surescripts, in a multi-tenant Spring Boot application.
   used:
     - thing: Spring Boot
     - thing: Hibernate
