@@ -38,7 +38,7 @@
 
 - name: Surescripts Utility
   url: 
-  code: a
+  code: /
   description: Implemented a health care utility to send and receive e-prescriptions (in XML based on given WSDL) to and from Surescripts, in a multi-tenant Spring Boot application.
   used:
     - thing: Spring Boot
