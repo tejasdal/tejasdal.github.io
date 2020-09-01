@@ -1,33 +1,33 @@
-languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
-  - item: Python
+programming:
+  - item: Java
   - item: SQL
-  - item: R
+  - item: REST API
+  - item: TypeScript
+  - item: JavaScript
+  - item: HTML
+  - item: CSS
+  - item: DSA
+  - item: DBMS
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Spring Framework
+  - item: Hibernate
+  - item: Node and Express
+  - item: Angular2+
+  - item: Andriod
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
+  - item: Git
+  - item: Jenkins
+  - item: Maven
   - item: Postman
   - item: MongoDB
+  - item: MySQL
+  - item: Docker & Docker Hub
+  - item: Jira
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+cloudservice:
+  - item: Amazon Web Services
+  - item: Heroku
+  - item: Google PubSub
+  - item: Azure App Service

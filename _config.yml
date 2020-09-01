@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Tejas Patel
+title: Tejas Patel | Software Engineer Intern
+description: a back-end software engineer focused on building and solving real-world problems
+url: https://tejasdal.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: tejas.patel@dal.ca
+cover: https://tejasdal.github.io/img/og.png
+logo: https://tejasdal.github.io/img/emojis/technologist.png
+resume: https://tejasdal.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:tejas.patel@dal.ca
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/tejasdal
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://www.instagram.com/tejas__111/
+  - title: hackerrank
+    url: https://www.hackerrank.com/tejas010297?hr_r=1
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/tejasdal
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/tejasdal
 
 # Build settings
 markdown: kramdown
