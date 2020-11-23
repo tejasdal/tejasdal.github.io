@@ -1,6 +1,6 @@
 - name: Group Formation Tool
-  url: 
-  code: https://git.cs.dal.ca/courses/2020-summer/csci5308/group20
+  url: https://github.com/tejasdal/courses-2020-summer-csci5308-group20.git
+  code: https://github.com/tejasdal/courses-2020-summer-csci5308-group20.git
   description: Developed a Spring Boot application that helps instructor and TAs of a course to create a survey and form groups of students based on responses of the survey.
   used:
     - thing: Spring Boot
@@ -12,8 +12,8 @@
     - thing: MySQL
 
 - name: Track My Job
-  url: https://track-my-jobs.herokuapp.com/
-  code: https://github.com/Zankrut97/grp21-trackmyjobs
+  url: https://github.com/tejasdal/TrackMyJobs-Angular-App.git
+  code: https://github.com/tejasdal/TrackMyJobs-Angular-App.git
   description: Developed an Angular2+ front-end and a Spring Boot back-end applications with primary goal to help users to maintain their job applications and tasks, activities, and contacts related to each job applications. Secondary goals are blogs management, job search, job application analytics etc.
   used:
     - thing: Angular2+
@@ -26,8 +26,8 @@
     - thing: AWS RDS
 
 - name: Meal Prep App
-  url: 
-  code: https://git.cs.dal.ca/tpatel/mealprep
+  url: https://github.com/tejasdal/mealprep.git
+  code: https://github.com/tejasdal/mealprep.git
   description: Developed an Android application to provide platform to share and discover new food recipes with ingredients and nutrition information.
   used:
     - thing: Android
@@ -49,6 +49,30 @@
     - thing: Sybase
     - thing: Google PubSub
 
+- name: Order Management SailsJS Application
+  url: https://github.com/tejasdal/mykart_sailjs
+  code: https://github.com/tejasdal/mykart_sailjs
+  description: Developed a SailsJS application to manage orders between e-commerce, delivery and vendor companies.
+  used:
+    - thing: SailsJS
+    - thing: NodeJS and Express
+    - thing: GitLab
+    - thing: AWS RDS
+    - thing: Azure App Service
+    - thing: AWS Lambda Function
+    - thing: AWS Gateway 
+
+- name: Track My Job V1
+  url: https://github.com/tejasdal/web-assignment02-296.git
+  code: https://github.com/tejasdal/web-assignment02-296.git
+  description: Developed an Angular2+ front-end primary goal to help users to maintain their job applications and tasks, activities, and contacts related to each job applications. Secondary goals are blogs management, job search, job application analytics etc.
+  used:
+    - thing: Angular2+
+    - thing: HTML
+    - thing: Bootstrap
+    - thing: TypeScript
+    - thing: Git
+  
 # - name: Crowd DJ
 #   url: https://github.com/crowddj/crowddj-react
 #   code: https://github.com/crowddj/crowddj-react
