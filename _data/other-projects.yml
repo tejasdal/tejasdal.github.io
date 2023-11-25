@@ -1,3 +1,26 @@
+- name: Inventory Import Improvements (Tulip)
+  url: 
+  code: /
+  description: Implemented strategic enhancements, optimizing the inventory imports and re-engineering architecture to handle high volumes effectively.
+  used:
+    - thing: IBM MQ
+    - thing: Java
+    - thing: AWS SQS
+    - thing: Shell
+    - thing: Git
+
+- name: SFCC OMS Integration (Tulip)
+  url: 
+  code: /
+  description: Played a key role in the integration of new Salesforce OMS, while maintaining old OMS to optimize deployment strategy for better customer experience.
+  used:
+    - thing: Java
+    - thing: PHP
+    - thing: TypeScript
+    - thing: Git
+    - thing: AWS EC2
+    - thing: Shell
+
 - name: Group Formation Tool
   url: https://github.com/tejasdal/courses-2020-summer-csci5308-group20.git
   code: https://github.com/tejasdal/courses-2020-summer-csci5308-group20.git
@@ -27,7 +50,7 @@
 
 - name: Meal Prep App
   url: https://github.com/tejasdal/mealprep.git
-  code: https://github.com/tejasdal/mealprep.git
+  code: https://github.com/tejasdal/mealprep#screenshots
   description: Developed an Android application to provide platform to share and discover new food recipes with ingredients and nutrition information.
   used:
     - thing: Android
@@ -36,7 +59,7 @@
     - thing: Git
     - thing: Firebase
 
-- name: Surescripts Utility
+- name: Surescripts Utility (Meditab)
   url: 
   code: /
   description: Implemented a health care utility to send and receive e-prescriptions (in XML based on given WSDL) to and from Surescripts, in a multi-tenant Spring Boot application.

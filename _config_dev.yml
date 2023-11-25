@@ -1,6 +1,6 @@
 # Site settings
 name: Tejas Patel
-title: Tejas Patel | Software Engineer Intern
+title: Tejas Patel | Software Engineer II
 description: a back-end software engineer focuses on building and solving real-world problems
 url: https://tejasdal.github.io/
 baseurl: ''
@@ -13,8 +13,8 @@ social:
     url: mailto:tejas.patel@dal.ca
   - title: twitter
     url: https://twitter.com/tejasdal
-  - title: instagram
-    url: https://www.instagram.com/tejas__111/
+  # - title: instagram
+  #   url: https://www.instagram.com/tejas__111/
   - title: hackerrank
     url: https://www.hackerrank.com/tejas010297?hr_r=1
   - title: github
